@@ -1,0 +1,55 @@
+{
+    "GamerTag": "Tyridan",
+    "UserId": "159695",
+    "WeekStart": "2016-11-21",
+    "Sessions": [
+        {
+            "DayOfWeek": "Tuesday",
+            "Hour": 23,
+            "Minutes": 0,
+            "Activity": "Wrath of the Machine - Heroic Mode",
+            "Details": "TOCAS main raid. 11PM UTC start.",
+            "GroupId": 1117,
+            "LightLevel": 390,
+            "FriendsToAdd": [
+                "mr_e_us_1",
+                "n_vargas",
+                "Santoidyp0p",
+                "brodiedaddy",
+                "One_Liter"
+            ]
+        },
+        {
+            "DayOfWeek": "Wednesday",
+            "Hour": 23,
+            "Minutes": 0,
+            "Activity": "Wrath of the Machine - Heroic Mode",
+            "Details": "TOCAS alt raid - or pick up from the day before! 11PM UTC start. Reserves welcome.",
+            "GroupId": 1117,
+            "LightLevel": 390,
+            "FriendsToAdd": [
+                "mr_e_us_1",
+                "n_vargas",
+                "Santoidyp0p",
+                "brodiedaddy",
+                "One_Liter"
+            ]
+        },
+        {
+            "DayOfWeek": "Thursday",
+            "Hour": 23,
+            "Minutes": 0,
+            "Activity": "Wrath of the Machine - Heroic Mode",
+            "Details": "TOCAS alt raid 2 - mopping up or starting on 3rd? 11PM UTC start. Reserves welcome.",
+            "GroupId": 1117,
+            "LightLevel": 390,
+            "FriendsToAdd": [
+                "mr_e_us_1",
+                "n_vargas",
+                "Santoidyp0p",
+                "brodiedaddy",
+                "One_Liter"
+            ]
+        }
+    ]
+}
